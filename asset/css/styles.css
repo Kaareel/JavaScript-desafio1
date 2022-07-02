@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: 1px solid black;
+    align-items: center;
+    background-color: greenyellow;
+    margin: 10px;
+}
+.card img{
+    width: 100%;
+}
+.colores{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.pinturas{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+.datos{
+    background-color: beige;
+    border: 1px solid;
+    width: 20%;
+    height: 180px;
+    margin-left: 20px;
+
+}
